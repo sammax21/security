@@ -2,7 +2,7 @@
   "virustotal": [
     {
       "dailyQuota": 500,
-      "enabled": true,
+      "enabled": false,
       "id": 1,
       "key": "5dc80b01589e13c5edf4b2bdd07f43112c017f1920293d205bd14d1f8d1f0c19",
       "lastChecked": "",
