@@ -69,6 +69,16 @@
       "lastUsed": "",
       "remaining": 500,
       "used": 0
+    },
+    {
+      "dailyQuota": 500,
+      "enabled": true,
+      "id": 8,
+      "key": "3940b49781d4ce03c7ea7571d918b6e71510240bc8915c2395725a6fe3cc7092",
+      "lastChecked": "",
+      "lastUsed": "",
+      "remaining": 500,
+      "used": 0
     }
   ]
 }
